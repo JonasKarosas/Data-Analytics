@@ -16,3 +16,4 @@
 - Workbech
 - pgAdmin
 - Azure Data Studio
+- Docker
