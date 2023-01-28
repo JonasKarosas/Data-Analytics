@@ -11,7 +11,7 @@
 - psycopg2
 - pymssql
 
-## Programs:
+## Software:
 - Visual Studio Code
 - Workbech
 - pgAdmin
