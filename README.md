@@ -1,4 +1,4 @@
-##Libraries:
+## Libraries:
 ### For visualisation:
 - numpy
 - pandas
@@ -11,7 +11,7 @@
 - psycopg2
 - pymssql
 
-##Used programs:
+## Used programs:
 - Workbech
 - pgAdmin
 - Azure data Studio
