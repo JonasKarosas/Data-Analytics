@@ -6,12 +6,13 @@
 - seaborn
 - warnings
 
-### Fro connections:
+### For connections:
 - mysql.connector
 - psycopg2
 - pymssql
 
-## Used programs:
+## Programs:
+- Visual Studio Code
 - Workbech
 - pgAdmin
-- Azure data Studio
+- Azure Data Studio
