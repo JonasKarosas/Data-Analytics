@@ -1,13 +1,17 @@
-# Python-projects
-
-Libraries:
+##Libraries:
+### For visualisation:
 - numpy
 - pandas
 - matplotlib.pyplot
 - seaborn
+- warnings
 
+### Fro connections:
+- mysql.connector
 - psycopg2
 - pymssql
-- mysql.connector
 
-- warnings
+##Used programs:
+- Workbech
+- pgAdmin
+- Azure data Studio
