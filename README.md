@@ -1,4 +1,4 @@
-## Libraries:
+## Libraries
 ### For visualisation:
 - numpy
 - pandas
@@ -6,12 +6,12 @@
 - seaborn
 - warnings
 
-### For connections:
+### For connections
 - mysql.connector
 - psycopg2
 - pymssql
 
-## Software:
+## Software
 - Visual Studio Code
 - Workbech
 - pgAdmin
