@@ -15,5 +15,3 @@
 - Visual Studio Code
 - Workbech
 - pgAdmin
-- Azure Data Studio
-- Docker
